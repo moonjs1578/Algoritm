@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/moonjeongsu/03_Workspace/01_Algoritm/Programmers",
+      "program": "/Users/moonjeongsu/03_Workspace/01_Algoritm/Programmers/build/Debug/outDebug"
+    }
+  ]
+}
